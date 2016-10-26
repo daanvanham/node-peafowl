@@ -1,0 +1,8 @@
+{
+	"name": "Peafowl",
+	"path": {
+		"to": {
+			"nested": "thingy"
+		}
+	}
+}
