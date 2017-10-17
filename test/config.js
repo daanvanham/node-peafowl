@@ -1,9 +1,8 @@
-'use strict';
-
-const Lab = require('lab'),
+const
+	Lab = require('lab'),
 	Code = require('code'),
 	lab = exports.lab = Lab.script(),
-	config = require('lib/index');
+	config = require(`${__dirname}/../lib/index`);
 
 lab.experiment('Config', () => {
 	lab.experiment(':get', () => {

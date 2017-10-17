@@ -10,7 +10,7 @@
   "license": "MIT",
   "devDependencies": {
     "code": "^4.0.0",
-    "lab": "^11.1.0",
+    "lab": "^14.3.1",
     "plato": "^1.7.0"
   }
 }
